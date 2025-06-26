@@ -1,0 +1,125 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 1200
+>>
+stream
+BT
+/F1 24 Tf
+72 720 Td
+(Teema Sireesha Poonumalli) Tj
+0 -30 Td
+/F1 14 Tf
+(B.Tech Data Science | Data Science Engineer) Tj
+0 -40 Td
+/F1 10 Tf
+(Email: teema.sireesha@example.com | Phone: +91 XXXXX XXXXX | Location: India) Tj
+0 -30 Td
+/F1 12 Tf
+(PROFESSIONAL SUMMARY) Tj
+0 -20 Td
+/F1 10 Tf
+(Passionate Data Science graduate with expertise in machine learning, full-stack development,) Tj
+0 -12 Td
+(and data visualization. Skilled in Python, JavaScript, SQL, and modern web technologies.) Tj
+0 -30 Td
+/F1 12 Tf
+(TECHNICAL SKILLS) Tj
+0 -20 Td
+/F1 10 Tf
+(Programming: Python, JavaScript/TypeScript, SQL, R, Java, C) Tj
+0 -12 Td
+(Data Science: Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn, GraphViz) Tj
+0 -12 Td
+(Machine Learning: Regression, Classification, Clustering, Decision Trees, Random Forest) Tj
+0 -12 Td
+(Web Development: HTML5, CSS3, ReactJS, Node.js, Express.js) Tj
+0 -12 Td
+(Databases: MySQL, MongoDB, Advanced Queries, Indexing) Tj
+0 -12 Td
+(Tools: Jupyter Notebooks, VS Code, Power BI, Git/GitHub) Tj
+0 -30 Td
+/F1 12 Tf
+(EDUCATION) Tj
+0 -20 Td
+/F1 10 Tf
+(Bachelor of Technology in Data Science) Tj
+0 -12 Td
+(Specialization in Machine Learning and Data Analytics) Tj
+0 -30 Td
+/F1 12 Tf
+(KEY PROJECTS) Tj
+0 -20 Td
+/F1 10 Tf
+(• Machine Learning Prediction Model - Comprehensive ML model with feature engineering) Tj
+0 -12 Td
+(• Full-Stack Data Dashboard - React frontend with Node.js backend and real-time visualization) Tj
+0 -12 Td
+(• Business Intelligence Dashboard - Interactive BI dashboard using Power BI and Python) Tj
+0 -30 Td
+/F1 12 Tf
+(SOFT SKILLS) Tj
+0 -20 Td
+/F1 10 Tf
+(• Agile/Scrum methodology understanding) Tj
+0 -12 Td
+(• Effective communication and team collaboration) Tj
+0 -12 Td
+(• Problem-solving and analytical thinking) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000010 00000 n 
+0000000056 00000 n 
+0000000111 00000 n 
+0000000254 00000 n 
+0000001506 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+1575
+%%EOF
