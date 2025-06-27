@@ -53,8 +53,8 @@ export default function HeroSection() {
               className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start"
             >
               <a
-                href="/teema_sireesha_resume.pdf"
-                download="Teema_Sireesha_Resume.pdf"
+                href="/TeemaSireesha_Resume.pdf"
+                download="TeemaSireesha_Resume.pdf"
                 className="gold-gradient text-[var(--luxury-navy)] px-8 py-3 rounded-lg font-semibold hover:shadow-lg transform hover:scale-105 transition-all duration-300 inline-flex items-center justify-center"
               >
                 <i className="fas fa-download mr-2"></i>
@@ -78,7 +78,7 @@ export default function HeroSection() {
             <div className="relative">
               <div className="w-80 h-80 rounded-full gold-gradient p-1">
                 <img
-                  src="https://images.unsplash.com/photo-1494790108755-2616b332e234?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=400"
+                  src="/TeemaProfilePic.jpg"
                   alt="Teema Sireesha Poonumalli - Professional Portrait"
                   className="w-full h-full rounded-full object-cover"
                 />

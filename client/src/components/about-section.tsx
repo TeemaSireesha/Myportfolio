@@ -67,8 +67,8 @@ export default function AboutSection() {
               className="mt-6"
             >
               <a
-                href="/teema_sireesha_resume.pdf"
-                download="Teema_Sireesha_Resume.pdf"
+                href="/TeemaSireesha_Resume.pdf"
+                download="TeemaSireesha_Resume.pdf"
                 className="inline-flex items-center text-[var(--luxury-gold)] hover:text-[var(--luxury-gold-light)] transition-colors duration-300"
               >
                 <i className="fas fa-file-pdf mr-2"></i>

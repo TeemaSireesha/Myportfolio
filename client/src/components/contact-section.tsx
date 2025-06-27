@@ -41,7 +41,7 @@ export default function ContactSection() {
     {
       icon: "fas fa-envelope",
       label: "Email",
-      value: "teema.sireesha@example.com"
+      value: "teemasireesha@gmail.com"
     },
     {
       icon: "fas fa-phone", 
@@ -51,15 +51,13 @@ export default function ContactSection() {
     {
       icon: "fas fa-map-marker-alt",
       label: "Location", 
-      value: "India"
+      value: "Chirala"
     }
   ];
 
   const socialLinks = [
-    { icon: "fab fa-linkedin", href: "#" },
-    { icon: "fab fa-github", href: "#" },
-    { icon: "fab fa-twitter", href: "#" },
-    { icon: "fas fa-globe", href: "#" }
+    { icon: "fab fa-linkedin", href: "https://www.linkedin.com/in/teema-sireesha/" },
+    { icon: "fab fa-github", href: "https://github.com/TeemaSireesha/Myportfolio" }
   ];
 
   return (

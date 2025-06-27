@@ -5,10 +5,10 @@ export default function ProjectsSection() {
     {
       title: "Professional Data Science Portfolio",
       description: "Built a comprehensive portfolio website showcasing data science expertise and full-stack development skills. Features responsive design, modern animations, and professional presentation of technical capabilities.",
-      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
+      image: "/ProjectImg.png",
       tags: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
       demoLink: window.location.href,
-      githubLink: "#"
+      githubLink: "https://github.com/TeemaSireesha/Myportfolio"
     }
   ];
 
